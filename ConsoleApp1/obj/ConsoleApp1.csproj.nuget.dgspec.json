@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\HelloDaejun\\HD_SHS_0426_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Study\\HelloDaejun\\HD_SHS_0426\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Study\\HelloDaejun\\HD_SHS_0426_1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Study\\HelloDaejun\\HD_SHS_0426\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\HelloDaejun\\HD_SHS_0426_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Study\\HelloDaejun\\HD_SHS_0426\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Study\\HelloDaejun\\HD_SHS_0426_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Study\\HelloDaejun\\HD_SHS_0426\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Honeybear_DT\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\HelloDaejun\\HD_SHS_0426_1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Study\\HelloDaejun\\HD_SHS_0426\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "f:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
